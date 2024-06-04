@@ -200,7 +200,7 @@ See [CONTRIBUTING][contributing].
 
 ## Support
 
-Please rea
+Please read
 [report bugs at the project on Github](https://github.com/google/google-auth-library-ruby/issues). Don't
 hesitate to
 [ask questions](http://stackoverflow.com/questions/tagged/google-auth-library-ruby)
