@@ -1,4 +1,4 @@
-# Google Auth Library for Ruby
+# Google Auth Library for Ruby and/or Rails
 
 <dl>
   <dt>Homepage</dt><dd><a href="http://www.github.com/googleapis/google-auth-library-ruby">http://www.github.com/googleapis/google-auth-library-ruby</a></dd>
